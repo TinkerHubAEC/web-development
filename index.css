@@ -1,0 +1,33 @@
+.head {
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    stroke: aliceblue;
+    text-shadow: 2px white;
+}
+body {
+    background-image: url("Untitled (2).png");
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.details {
+    text-align: center;
+    color: white;
+    font-size: medium;
+}
+.reg {
+    text-align: center;
+    font-size: medium;
+}
+a {
+    color: white;
+}
+p {
+    font-size: medium;
+}
+img {
+    height: 400px;
+    width: 400px;
+}
